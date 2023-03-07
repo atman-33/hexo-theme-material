@@ -18,3 +18,4 @@ Therefore, I will leave a bug correction version.
 - Fix bugs that "/// <" are not displayed correctly in Hanabe-Browser
 - Fix bugs that do not display "<>" correctly in Hanabe-Browser
 - Fix bugs that do not correctly display the "constructor" in the JavaScript code block on the mobile screen of Hanabe-Browser
+- Fixed a bug where commas remained in structured-data.ejs for SEO measures
